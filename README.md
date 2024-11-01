@@ -7,7 +7,6 @@
 
 
 ![Rafael  GitHub stats](https://github-readme-stats.vercel.app/api?username=rklein7&show_icons=true&theme=midnight-purple)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rklein7&layout=compact&theme=midnight-purple)
 
 ## 💻 Skills
